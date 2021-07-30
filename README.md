@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miloo223
-- 👀 I’m interested in ...AI
-- 🌱 I’m currently learning ...TENSORFLOW
-- 💞️ I’m looking to collaborate on ...APP INVENTOR
+- 👀 I’m interested in ...GOLANG
+- 🌱 I’m currently learning ...BACKEND
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...DISCORD EDU PROJECT#9948
 
 <!---
